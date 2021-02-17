@@ -3,6 +3,8 @@
 A RShiny App using dplyr, ggplot, cartography and sf.
 Which exploits the Game Of Thrones dataset to do data Visualizations.
 
+**Note: Check the Project_Report.pdf  for more informations.**
+
 ## Installation:
 Open terminal and type the following commands: 
 
